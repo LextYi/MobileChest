@@ -1,0 +1,15 @@
+{
+  "values": [
+    "chest",
+    "trapped_chest",
+    "dispenser",
+    "furnace",
+    "brewing_stand",
+    "hopper",
+    "dropper",
+    "barrel",
+    "smoker",
+    "blast_furnace",
+    "lectern"
+  ]
+}
